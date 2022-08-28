@@ -1,3 +1,3 @@
 # RTOS
 
-Codes in C language about main tools related to RTOS, such as pipes, shared memory and sockets. 
+Experimental scripts for Real Time Operating Systems subject of fourth grade of Electronics Engineering at UC3M.
